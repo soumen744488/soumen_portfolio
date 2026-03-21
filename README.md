@@ -134,7 +134,7 @@ Upload all files to any web hosting service that supports static websites.
 
 ## 📧 Contact
 
-- **Email**: palsoumen306@gmail.com
+- **Email**: palsoumen@duck.com
 - **GitHub**: [soumen744488](https://github.com/soumen744488)
 - **Portfolio**: [Live Demo](https://soumen744488.github.io/soumen_portfolio/)
 
